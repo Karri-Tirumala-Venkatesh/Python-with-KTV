@@ -1,0 +1,40 @@
+Class : blue print for pieces of data ( objects )
+- It helps us in creating our own datatype in python
+- Custom Containers with Custom Names
+- It should be only used to represent a realworld entity
+
+By convention use a capital first letter for a class name
+
+... -> placeholder which says that I am going to comeback there
+
+Object is an instanciation of a class
+
+Attributes of a class are called => instance variables 
+
+We can raise our exceptions sponatneously, using "raise"
+
+When a function is inside a Class, it is called a method / Object Methods
+
+Properties : Attributes with more defence Mechanisms put into place
+- We use the keyword "@property"
+
+We use "decorators" to decorate functions
+- these are functions which modify the behaviour of other functions
+
+ We cannot have the same method name and same attribute name. ( probably in the same method )
+ We can resolve this by following the syntax : "object._attribute"
+ just keep an '_' infron of the attribute name while access
+
+ Inside a class, when we have getters and setters, _attribute-name refers to actually accessing tha attribute,
+ else et means for calling some getter or setter
+
+ Class Methods : - we use the decorator @classmethod
+ - These methods are not specific to the objects
+
+ Static Methods : - we use the decorator @staticmethod
+
+ Inheritance : We need to explicity call the parent class constructor
+
+ In Python, multiple exceptions follow Inheritance
+
+ In Python - OOP - We have a lot of Special Methods - refer official Documentation

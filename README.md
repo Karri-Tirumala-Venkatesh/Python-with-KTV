@@ -20,3 +20,13 @@ Contents of the Repo include :<br>
    3.3 Main Function<br>
 4. Other things in Python<br>
    4.1 Match<br>
+5. Object Oriented Programming<br>
+   5.1 Declaring classes<br>
+   5.2 Constructor<br>
+   5.3 Printing an Object<br>
+   5.4 Methods<br>
+   5.5 Properties and Decorators<br>
+   5.6 Inheritance<br>
+   5.7 Datatypes and Exceptions as Classes<br>
+   5.8 Class Methods<br>
+   5.9 Operator Overloading
